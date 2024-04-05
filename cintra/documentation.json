@@ -1,0 +1,3 @@
+{
+    "webapp.py": "Description: This file sets up a basic Flask application with a single route that returns 'Hello, World!'.\n\nDependencies: flask\n\nFunctions:\n- Name: hello_world\n  Description: Defines the route '/' that returns 'Hello, World!' when accessed.\n  Parameters: None\n  Returns: 'Hello, World!' (str) - A greeting message."
+}
